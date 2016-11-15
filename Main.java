@@ -12,14 +12,5 @@ public class Main {
         window.setSize(500,500);
         window.setVisible(true);
 
-
-/*
-        PDFManager pdfManager = new PDFManager();
-        pdfManager.setFileInPath("C:\\200.pdf");
-        System.out.println(pdfManager.ToText());
-        pdfManager.setFileOutPath("C:\\200_out.pdf");
-        pdfManager.removeFirstPage();
-*/
-
     }
 }
